@@ -7,6 +7,6 @@ int main()
     printf("Hello Sumon\n");
     printf("Hello CSE\n");
     printf("Hello Batch 22\n");
-    printf("Hello Everyone");
+    printf("Hello Everyone!");
     return 0;
 }
